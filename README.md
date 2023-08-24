@@ -12,7 +12,7 @@ You must [set up an environment](https://reactnative.dev/docs/environment-setup)
 for React Native development before building this project.  Our project and
 instructions assume you are using the React Native CLI.
 
-## Running the project
+## How to run
 
 After cloning this repository, run the following command to install the dependencies:
 
